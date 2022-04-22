@@ -1,3 +1,5 @@
+# Given a roman numeral, convert it to an integer
+
 def romanToInt(s, out=0):
     values = {
         "I": 1,
